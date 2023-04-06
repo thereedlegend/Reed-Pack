@@ -8,13 +8,19 @@ And no, it's not replacing your gboard app or overlays...
 The module modifies two of your system props to map the theme location and adds a folder ([I]/system/etc/gboard_theme[/I]) with actual themes inside.
 
 ## Included Emoji's 
+
 – IOS Emoji 
 
 ## Included themes
+
 – Ported 30+ themes from Swiftkey
+
 – Ported one themes from Fleksy (more soon)
+
 – IOS Themes (white, dark, transparent, black)
+
 – Windows themes (98 like win10 and xbox)
+
 – OVER amazing 200+ THEMES
 
 ## Links
