@@ -23,7 +23,7 @@ Module replacing your Emoji font in Facebook, Whatsapp. All system replacing.
 
 – Windows themes (98 like win10 and xbox)
 
-– OVER amazing 200+ THEMES
+– OVER amazing 100+ THEMES
 
 ## Links
 [Telegram Channel](https://t.me/reed_group)
